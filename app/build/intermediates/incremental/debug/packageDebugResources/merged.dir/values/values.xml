@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1A1A2E</color>
+    <string name="app_name">Sunday Tools</string>
+    <string name="notification_channel_name">Sunday Tools Overlay</string>
+    <string name="notification_content_text">Bubble is active. Tap to capture a player tag.</string>
+    <style name="Theme.SundayTools" parent="android:Theme.Material.NoActionBar"/>
+    <style name="Theme.SundayTools.Transparent" parent="android:Theme.Translucent.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

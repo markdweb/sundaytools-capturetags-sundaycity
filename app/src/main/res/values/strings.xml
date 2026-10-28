@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunday Tools</string>
+    <string name="notification_channel_name">Sunday Tools Overlay</string>
+    <string name="notification_content_text">Bubble is active. Tap to capture a player tag.</string>
+</resources>
